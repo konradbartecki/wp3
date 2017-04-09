@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+  <name>KML Name</name>
+  <description>KML Description</description>
+  <Placemark>
+   <name>KML Point</name>
+   <description></description>
+   <Point>
+    <coordinates>22.8727, 51.2999</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>KML Point</name>
+   <description>Test</description>
+   <Point>
+    <coordinates>22.8930, 51.2977</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>KML Point</name>
+   <description>testsetes</description>
+   <Point>
+    <coordinates>22.8852, 51.2913</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>KML Point</name>
+   <description>testset</description>
+   <Point>
+    <coordinates>22.8797, 51.3037</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>KML Point</name>
+   <description>testes</description>
+   <Point>
+    <coordinates>22.8850, 51.2995</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>KML Point</name>
+   <description>testse</description>
+   <Point>
+    <coordinates>22.8953, 51.3015</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>KML Pointtestes</name>
+   <description>testes</description>
+   <Point>
+    <coordinates>22.8945, 51.3047</coordinates>
+   </Point>
+  </Placemark>
+ </Document>
+</kml>
